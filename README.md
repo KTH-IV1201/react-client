@@ -13,4 +13,4 @@ Use browser tools to see the headers of interest for CORS. The header `Origin` i
 
 ## More Information About CORS
 
-There's much more to say about CORS, a good source for more information is the [CORS page at MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS).
+There's much more to say about CORS, a good source for more information is the [CORS page at MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS). In case of problems, there might be useful information at the [CORS errors page at MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS/Errors).
