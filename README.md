@@ -5,7 +5,7 @@ This project was adapted from the code examples at [https://www.stackhawk.com/bl
 
 ## How To Start
 
-Start the application locally with the command `npm start`. You can also find the application live at `https://iv1201-cors-client.herokuapp.com/`.
+Start the application locally with the command `npm start`. You can also find the application live at `https://iv1201-cors-client-ed7087f7f03a.herokuapp.com/`.
 
 ## CORS
 
