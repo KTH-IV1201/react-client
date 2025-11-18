@@ -14,6 +14,7 @@
   },
   "scripts": {
     "dev": "rsbuild dev",
+    "start": "rsbuild dev",
     "build": "rsbuild build",
     "preview": "rsbuild preview"
   },
