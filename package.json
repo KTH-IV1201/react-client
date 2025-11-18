@@ -2,11 +2,10 @@
   "name": "react-client",
   "version": "0.1.0",
   "description": "An example of cors handling on the frontend",
-  "main": "index.js",
   "engines": {
     "node": ">=24.0.0",
     "npm": ">=11.0.0"
-},
+  },
   "dependencies": {
     "@rsbuild/plugin-react": "^1.4.2",
     "@testing-library/jest-dom": "^6.9.1",
@@ -17,10 +16,8 @@
     "web-vitals": "^5.1.0"
   },
   "scripts": {
-    "dev": "rsbuild dev",
-    "start": "rsbuild dev",
-    "build": "rsbuild build",
-    "preview": "rsbuild preview"
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
   },
   "eslintConfig": {
     "extends": [
@@ -41,6 +38,7 @@
     ]
   },
   "devDependencies": {
-    "@rsbuild/core": "^1.6.6"
+    "@rsbuild/core": "^1.6.6",
+    "parcel": "^2.16.1"
   }
 }

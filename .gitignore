@@ -62,3 +62,8 @@ typings/
 
 #visualstudio config
 .vscode
+
+#parcel
+dist/
+.parcel-cache
+
